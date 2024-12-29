@@ -1,0 +1,7 @@
+__pycache__/
+.DS_Store
+temperature_data.csv
+plan.txt
+config.json
+conclusions.txt
+.ipynb_checkpoints/
